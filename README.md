@@ -7,7 +7,7 @@
 
 ---
 
-📍 Khammam, Telangana, India  
+📍 Hyderabad, Telangana, India  
 📧 Email: badavathshivashankar08@gmail.com  
 🌐 Portfolio: [ShivaShankar.com](https://my-portfolio-nine-omega-91.vercel.app/)  
 💻 GitHub: [github.com/Shiva-shankarr](https://github.com/Shiva-shankarr)  
