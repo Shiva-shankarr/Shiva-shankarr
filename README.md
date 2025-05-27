@@ -2,19 +2,19 @@
 <h3 align="center">Aspiring Software Developer | MERN Stack | Java | C++ | Backend Engineering</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shiva-shankarr&label=Profile%20views&color=0e75b6&style=flat" alt="Shiva-shankarr" />
+  <img src="https://komarev.com/ghpvc/?username=Shiva-shankarr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-📍 Hyderabad, Telangana, India  
+📍 **Location**: Hyderabad, Telangana, India  
 📧 **Email**: badavathshivashankar08@gmail.com  
 🌐 **Portfolio**: [my-portfolio](https://my-portfolio-nine-omega-91.vercel.app/)  
-🔗 **GitHub**: [github.com/Shiva-shankarr](https://github.com/Shiva-shankarr) 
-💼 [LinkedIn](https://www.linkedin.com/in/b-shiva-shankar-3b1b68290/)  
-🧠 [LeetCode](https://leetcode.com/u/Shiva-2800/) 
+🔗 **GitHub**: [github.com/Shiva-shankarr](https://github.com/Shiva-shankarr)  
+💼 **LinkedIn**: [B Shiva Shankar](https://www.linkedin.com/in/b-shiva-shankar-3b1b68290/)  
+🧠 **LeetCode**: [Shiva-2800](https://leetcode.com/u/Shiva-2800/)  
 📱 **Mobile**: +91 9553927751  
- 
+
 ---
 
 ## 🎓 Education
@@ -51,7 +51,7 @@
 
 ### 🧑‍💻 Software Developer Intern  
 **AdVantage Ecosystem** (Remote)  
-Jan 2025 – Apr 2025  
+*Jan 2025 – Apr 2025*  
 - Developed and deployed full-stack web applications  
 - Contributed to decentralized learning and gamified tools  
 - Strengthened hands-on experience in MERN stack
@@ -85,4 +85,3 @@ Jan 2025 – Apr 2025
 ---
 
 > _"Code with purpose. Learn with passion. Build for impact."_
-
