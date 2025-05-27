@@ -8,93 +8,81 @@
 ---
 
 📍 Hyderabad, Telangana, India  
-📧 Email: badavathshivashankar08@gmail.com  
-🌐 Portfolio: [ShivaShankar.com](https://my-portfolio-nine-omega-91.vercel.app/)  
-💻 GitHub: [github.com/Shiva-shankarr](https://github.com/Shiva-shankarr)  
-📱 Mobile: +91 9553927751  
-
+📧 **Email**: badavathshivashankar08@gmail.com  
+🌐 **Portfolio**: [my-portfolio](https://my-portfolio-nine-omega-91.vercel.app/)  
+🔗 **GitHub**: [github.com/Shiva-shankarr](https://github.com/Shiva-shankarr) 
+💼 [LinkedIn](https://www.linkedin.com/in/b-shiva-shankar-3b1b68290/)  
+🧠 [LeetCode](https://leetcode.com/u/Shiva-2800/) 
+📱 **Mobile**: +91 9553927751  
+ 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 - **B.Tech in Computer Science and Engineering**  
-  VNR Vignana Jyothi Institute of Engineering and Technology  
-  📍 Hyderabad, Telangana, India | 📅 Sep 2023 – June 2026 | GPA: 8.7  
-  _Courses: OOP (Java), DSA, DBMS, OS, Software Engineering_
+  *VNR Vignana Jyothi Institute of Engineering and Technology*  
+  Sep 2023 – June 2026 | **CGPA: 8.5**  
+  _Key Courses: Java, DSA, DBMS, OS, Software Engineering_
 
 - **Diploma in Computer Science**  
-  Govt Polytechnic Warangal  
-  📍 Warangal, Telangana | 📅 June 2020 – May 2023 | GPA: 9.57  
-  _Courses: OOP (C++), Web Development, OS, CN_
+  *Govt Polytechnic Warangal*  
+  June 2020 – May 2023 | **GPA: 9.57**  
+  _Key Courses: C++, Web Dev, OS, CN_
 
 - **SSC – ZPHS Kusumanchi**  
-  📍 Khammam, Telangana | 📅 June 2019 – March 2020 | GPA: 9.8  
+  March 2020 | **GPA: 9.8**  
   _Subjects: Math, Science, Social, IT_
 
 ---
 
-### 🛠 Skills & Technologies
+## 🛠 Skills & Technologies
 
-**Languages:** C, C++, C#, Java, JavaScript, Python, SQL  
-**Frameworks:** ReactJS, NodeJS, ExpressJS, Redux, Bootstrap, .NET (C#)  
-**Databases:** MongoDB, PostgreSQL  
-**Tools:** Git, VS Code, Eclipse  
-**Platforms:** Windows, Linux, Web  
-**Core Competencies:** DSA, System Design, OS, Agile, Software Engineering, CN  
-**Soft Skills:** Communication, Problem-Solving, Teamwork, Leadership, Adaptability, Time Management
-
----
-
-### 💼 Experience
-
-**Software Developer Intern**  
-AdVantage Ecosystem (Remote) | 📅 Jan 2025 – Apr 2025  
-- Developed, tested, and deployed real-time web applications  
-- Worked on decentralized learning and gamified tools  
-- Gained hands-on experience in full-stack development
+- **Languages**: C, C++, Java, C#, JavaScript, Python, SQL  
+- **Frameworks & Libraries**: ReactJS, NodeJS, ExpressJS, Redux, Bootstrap, .NET  
+- **Databases**: MongoDB, PostgreSQL  
+- **Technologies**: Machine Learning, REST APIs  
+- **Tools & Platforms**: Git, VS Code, Eclipse, Windows, Linux  
+- **Core Concepts**: DSA, OOP, OS, CN, DBMS, System Design, Agile  
+- **Soft Skills**: Problem Solving, Teamwork, Leadership, Communication, Adaptability
 
 ---
 
-### 🚀 Projects
+## 💼 Experience
 
-- **💳 PayLater App** – Student credit-based service with admin dashboard  
-  _Tech: MERN Stack | Aug 2024 – Sep 2024_
-
-- **🗂️ TaskHub** – Task tracking and team collaboration platform  
-  _Tech: MERN Stack | Dec 2024 – Jan 2025_
-
-- **📝 Blog App** – Blogging platform with performance optimization  
-  _Tech: MERN Stack | Jan 2024 – Apr 2024_
-
-- **🎓 UG/PG Internship Portal** – Real-time internship tracker for 400+ students  
-  _Tech: MERN Stack | Oct 2023 – Dec 2023_
+### 🧑‍💻 Software Developer Intern  
+**AdVantage Ecosystem** (Remote)  
+Jan 2025 – Apr 2025  
+- Developed and deployed full-stack web applications  
+- Contributed to decentralized learning and gamified tools  
+- Strengthened hands-on experience in MERN stack
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
-- Introduction to AI – LinkedIn  
-- Mobile App Development – Infosys Springboard  
-- MERN Stack Development – MastersCoding  
-- Smart Coder (Bronze) – Smart Interviews
-
----
-
-### 🏆 Achievements
-
-- 🥇 **70th Rank in TS ECET 2023**  
-- 🥉 **3rd Prize – State-Level Essay Competition**  
-- 🏅 **NMMS Scholarship Winner** for academic excellence  
+- Introduction to Artificial Intelligence – *LinkedIn Learning*  
+- Mobile App Development – *Infosys Springboard*  
+- MERN Stack Development – *MastersCoding*  
+- Smart Coder (Bronze) – *Smart Interviews*
 
 ---
 
-### 🧠 Co-Curricular Activities
+## 🏆 Achievements
 
-- Member of **JNTUHTBI Entrepreneurship Program**  
-- Hackathon & Coding Contest Participant (Microsoft ML101, etc.)  
-- Volunteered in technical events and mentored peers  
-- Participated in district/zonal sports events
+- 🥇 **Secured 70th Rank** in TS ECET 2023  
+- 🥉 **3rd Prize** – State-Level Essay Competition (Telangana)  
+- 🏅 **NMMS Scholarship Winner** for Academic Excellence
 
 ---
 
-> "_Code with purpose. Learn with passion. Build for impact._"
+## 🧠 Co-Curricular Activities
+
+- Member, **JNTUHTBI Entrepreneurship Program**  
+- Hackathon & Coding Contest Participant (e.g., Microsoft ML101)  
+- Volunteered in college tech events & peer mentoring  
+- Represented school at district/zonal sports events
+
+---
+
+> _"Code with purpose. Learn with passion. Build for impact."_
+
